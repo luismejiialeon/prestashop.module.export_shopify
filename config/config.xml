@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>exportproducts</name>
+    <displayName><![CDATA[Export Products to CSV]]></displayName>
+    <description><![CDATA[Export products from selected categories to a CSV file.]]></description>
+    <author><![CDATA[TuNombre]]></author>
+    <version><![CDATA[1.0.0]]></version>
+    <tab><![CDATA[administration]]></tab>
+</module>

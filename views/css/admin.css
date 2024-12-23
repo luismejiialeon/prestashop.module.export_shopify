@@ -1,0 +1,26 @@
+/* views/css/admin.css */
+.chosen-container {
+    width: 100% !important;
+}
+
+.chosen-container-multi .chosen-choices {
+    min-height: 34px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.export-buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.process-icon-loading {
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
